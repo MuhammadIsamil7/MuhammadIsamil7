@@ -4,7 +4,7 @@
 -   🌱 I'm currently learning: Data Science, Web Development, Python.
 -   I believe in continuous learning and keeping up with the latest trends in the web development ecosystem. Currently, I'm expanding my knowledge in advanced JavaScript, mastering React and Node.js, and exploring cloud computing platforms to build scalable applications.
 -   💞️ I'm looking to collaborate on: I'm always open to collaborating with like-minded developers on exciting projects. Whether it's an open-source initiative or a unique web application, count me in! Let's join forces to create something amazing together.
--   📫 How to reach me:  Feel free to get in touch with me through email at ismailofficial726@email.com or connect with me on LinkedIn https://www.linkedin.com/in/muhammad-ismail-532a80213. I'm always eager to chat about web development, share ideas, and explore potential collaborations.
+-   📫 How to reach me:  Feel free to get in touch with me through email at ismailofficial726@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/muhammad-ismail-532a80213. I'm always eager to chat about web development, share ideas, and explore potential collaborations.
 
 I'm Looking forward to connecting with fellow developers and building a better web together! 🚀
 
